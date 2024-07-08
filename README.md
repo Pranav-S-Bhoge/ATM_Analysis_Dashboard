@@ -60,7 +60,7 @@ This line chart shows the trend of total transactions over time, specifically hi
 ## Detailed Analysis
 
 
-### Range Analysis (Current and Previous Month by ATM ID)
+### Range Analysis (Current and Previous Month by number of ATM ID)
 
 This section provides an analysis of ATM performance by margin and transaction ranges for the current and previous month:
 - **MARGIN RANGE Current Month**:
@@ -80,13 +80,6 @@ This section provides an analysis of ATM performance by margin and transaction r
   - **Above 200**: 1207 ATMs
   - **Below 50**: 166 ATMs
 
-### Key Metrics
-
-- **Total Cost**: 74M
-- **Average Total Transactions (TXN)**: 179.19M
-- **Gross Profit Percentage**: 59.2%
-- **Average Uptime**: 93.0%
-- **Average EBILL**: 2.27K
 
 ### Detail Analysis (By State and Revenue Performance)
 
